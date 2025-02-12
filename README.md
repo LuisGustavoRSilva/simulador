@@ -2,6 +2,6 @@
 
 
 # Simulador
-Criação de um simulador utilizando html, css e javascript
+Criação de um simulador de Gasolina e Etanol utilizando html, css e javascript
 ## Autor
 # Luis Gustavo Rodrigues Da Silva
